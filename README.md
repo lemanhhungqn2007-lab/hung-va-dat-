@@ -127,10 +127,10 @@ Hoặc sử dụng extension:
 
 # 👨‍💻 Thành viên nhóm
 
-| Thành viên | Vai trò          |
-| ---------- | ---------------- |
-| Bạn 1      | HTML Structure   |
-| Bạn 2      | CSS & Responsive |
+| Thành viên       | Vai trò          |
+| ----------       | ---------------- |
+| Đặng Minh Đạt    | HTML             |
+| Lê Mạnh Hùng     | CSS              |
 
 ---
 
