@@ -1,18 +1,76 @@
-# 🍃 Trà Việt Quán — Tinh Hoa Trà Đạo Thủ Công
+🍵 静寂 • Seijaku — Japanese Tea House Landing Page
+📌 Giới thiệu
 
-Landing page giới thiệu thương hiệu trà cổ thụ và không gian thưởng trà truyền thống — xây dựng hoàn toàn bằng **HTML & CSS thuần**, không sử dụng JavaScript.
+Seijaku là một dự án Landing Page giới thiệu quán trà đạo Nhật Bản được xây dựng bằng HTML5 và CSS3.
+Website mang phong cách tối giản lấy cảm hứng từ tinh thần Wabi-Sabi của Nhật Bản — vẻ đẹp trong sự giản đơn và tĩnh lặng.
+
+🖼️ Giao diện dự án
+
+Website gồm các phần:
+
+Header / Navigation
+Hero Banner
+Philosophy Section
+Tea Space Section
+Menu Section
+Contact Section
+Footer
+Responsive Mobile Layout
+🛠️ Công nghệ sử dụng
+HTML5
+CSS3
+Responsive Design
+Flexbox
+CSS Grid
+📂 Cấu trúc thư mục
+project/
+│
+├── index.html
+├── style.css
+└── README.md
+🚀 Cách chạy dự án
+Bước 1
+
+Clone repository:
+
+git clone https://github.com/your-username/seijaku-landing-page.git
+Bước 2
+
+Mở thư mục project bằng VSCode.
+
+Bước 3
+
+Chạy file 
+
+Hoặc sử dụng extension Live Server trên VSCode.
+
+🎨 Ý tưởng thiết kế
+
+Dự án lấy cảm hứng từ:
+
+Văn hóa trà đạo Nhật Bản
+Tinh thần Wabi-Sabi
+Màu sắc thiên nhiên
+Không gian yên tĩnh và tối giản
+
+Tone màu chính:
+
+Xanh rêu
+Kem nhạt
+Nâu gỗ
+Trắng giấy Washi
+📱 Responsive
+
+Website được tối ưu cho:
+
+Desktop
+Tablet
+Mobile
+👨‍💻 Thành viên nhóm
+Thành viên 1: lê Mạnh Hùng 
+Thành viên 2: Đặng Minh Đạt
 
 ---
 
-## 🧑‍💻 Thông Tin Sinh Viên
-* **Họ và tên:** Lê Mạnh Hùng
-* **Mã sinh viên:** 11253289
-* **Lớp khóa:** K67 Công nghệ thông tin — Đại học Kinh tế Quốc dân (NEU)
+*Đại Học Kinh Tế Quốc Dân, TP. Hà Nội · 0123456789*
 
----
-
-## 📁 Cấu Trúc Thư Mục
-Dự án tuân thủ cấu trúc tối giản, gọn gàng theo đúng yêu cầu:
-```text
-├── index.html   # Cấu trúc nội dung toàn bộ trang web
-└── style.css    # Thiết kế giao diện, layout và hiệu ứng animation cho tách trà
