@@ -1,18 +1,18 @@
-# 🍃 Trà Việt Quán — Tinh Hoa Trà Đạo Thủ Công
+# 静寂 • Seijaku — Landing Page Quán Trà Đạo Nhật Bản
 
-Landing page giới thiệu thương hiệu trà cổ thụ và không gian thưởng trà truyền thống — xây dựng hoàn toàn bằng **HTML & CSS thuần**, không sử dụng JavaScript.
+Trang giới thiệu (landing page) tĩnh cho một quán trà đạo mang phong cách Nhật Bản cổ xưa, đậm tinh thần **wabi-sabi** và triết lý **Ichigo Ichie**.  
+Dự án sử dụng HTML5 và CSS3 thuần, không phụ thuộc vào JavaScript.
 
----
+##Thông tin sinh viên
 
-## 🧑‍💻 Thông Tin Sinh Viên
-* **Họ và tên:** Lê Mạnh Hùng
-* **Mã sinh viên:** 11253289
-* **Lớp khóa:** K67 Công nghệ thông tin — Đại học Kinh tế Quốc dân (NEU)
+- **Họ và tên** - Đặng Minh Đạt
+- **Mã sinh viên** - 11251821
 
----
+## Công nghệ sử dụng
 
-## 📁 Cấu Trúc Thư Mục
-Dự án tuân thủ cấu trúc tối giản, gọn gàng theo đúng yêu cầu:
-```text
-├── index.html   # Cấu trúc nội dung toàn bộ trang web
-└── style.css    # Thiết kế giao diện, layout và hiệu ứng animation cho tách trà
+- **HTML5** – cấu trúc ngữ nghĩa, hỗ trợ đa ngôn ngữ (`lang="vi"`).
+- **CSS3** – tách riêng vào tệp `styles.css` (cần tạo thêm hoặc nhúng từ bản đầy đủ trước đó).
+- **Fonts** – khuyến nghị dùng Google Fonts: `Noto Serif JP` và `Lora` (được khai báo trong CSS đi kèm).
+- **Hình ảnh** – các món trong menu sử dụng ảnh từ nguồn bên ngoài (placeholder thực tế).
+
+## Cấu trúc thư mục
